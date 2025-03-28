@@ -1,9 +1,9 @@
 # Parkinson's Disease Classification Model
 
-This repository contains a machine learning model for classifying Parkinson's Disease using the **K-Nearest Neighbors (KNN) algorithm**.
+This repository contains a machine learning models for classifying Parkinson's Disease using the **K-Nearest Neighbors (KNN), Decision Tree Algorithm and Support Vector Machine algorithm**.
 
 ## 📌 Project Overview
-Parkinson’s disease is a neurodegenerative disorder affecting movement. Early diagnosis is crucial for managing the disease effectively. This project applies **KNN** to classify patients based on biomedical voice measurements.
+Parkinson’s disease is a neurodegenerative disorder affecting movement. Early diagnosis is crucial for managing the disease effectively. This project applies some regression algorithms to classify patients based on biomedical voice measurements.
 
 ## 📊 Dataset
 - The dataset is stored in `data.csv`.
@@ -13,7 +13,7 @@ Parkinson’s disease is a neurodegenerative disorder affecting movement. Early 
 ## 🛠️ Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/parkinsons-classification.git
+   git clone https://github.com/UdaraChamidu/Parkinson-s-Disease-Classification-Model.git
    cd parkinsons-classification
    ```
 2. Install required dependencies:
@@ -28,7 +28,7 @@ Parkinson’s disease is a neurodegenerative disorder affecting movement. Early 
 ## 🔍 Model Implementation
 - The dataset is loaded and preprocessed.
 - Features are scaled using **StandardScaler**.
-- The model is trained using **K-Nearest Neighbors (KNN)**.
+- The model is trained using **K-Nearest Neighbors (KNN), Decision Tree and Support Vector Machine algorithms.**
 - Cross-validation is used to evaluate model performance.
 
 ## 📈 Results & Evaluation
