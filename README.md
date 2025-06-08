@@ -13,8 +13,8 @@ Parkinson’s disease is a neurodegenerative disorder affecting movement. Early 
 ## 🛠️ Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/UdaraChamidu/Parkinson-s-Disease-Classification-Model.git
-   cd parkinsons-classification
+   git clone https://github.com/UdaraChamidu/Parkinson-s-Disease-Predict/Parkinson's_disease_classification.git
+   cd Parkinson-s-Disease-Predict
    ```
 2. Install required dependencies:
    ```bash
@@ -22,7 +22,7 @@ Parkinson’s disease is a neurodegenerative disorder affecting movement. Early 
    ```
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook 2021E049_Lab01.ipynb
+   jupyter notebook Parkinson's_disease_classification.ipynb
    ```
 
 ## 🔍 Model Implementation
@@ -40,12 +40,6 @@ Parkinson’s disease is a neurodegenerative disorder affecting movement. Early 
 - Implement feature selection to remove irrelevant data.
 - Tune hyperparameters for better generalization.
 - Compare with other ML models (SVM, RandomForest).
-
-## 📜 License
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-Feel free to open issues or pull requests to improve this model!
 
 ---
 **Author:** Udara Chamidu
